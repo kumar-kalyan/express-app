@@ -6,12 +6,20 @@
   "scripts": {
     "start": "node server.js"
   },
-  "name": "multer",
+  "name": "Expressjs Starter",
   "version": "1.0.0",
   "main": "server.js",
   "devDependencies": {},
   "keywords": [],
   "author": "",
   "license": "MIT",
-  "description": ""
+  "description": "Node Expressjs starter template",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kumar-kalyan/express-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kumar-kalyan/express-app/issues"
+  },
+  "homepage": "https://github.com/kumar-kalyan/express-app#readme"
 }
